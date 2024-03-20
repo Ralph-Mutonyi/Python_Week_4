@@ -80,3 +80,7 @@ df = pd.DataFrame(np.random.randn (4,3), colums = ['col1', 'col2', 'col3'] )
 for row in df.itertuples():
 print(row)
 """
+
+# matplotlib
+
+allows for creating of static animated and interactive visualizations in the python programming language. 
